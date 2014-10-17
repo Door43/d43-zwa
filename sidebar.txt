@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zwa:home|Door43 (zwa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zwa|d43-zwa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zwa/archive/master.zip|d43-zwa.zip]]
+
+**Recent Changes**
+{{changes>ns = zwa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zwa|Ethnologue data]]
+
